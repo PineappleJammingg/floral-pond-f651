@@ -21,9 +21,9 @@ export default function Home() {
       <section>
         <h2>Find Our Code</h2>
         <p>Check out our source code and contribute on GitHub:</p>
-        <Link href="https://github.com/NomadicCat/JakinCrimsonHack2025">
-          <a target="_blank">Visit our GitHub Repository!</a>
-        </Link>
+        <a href="https://github.com/NomadicCat/JakinCrimsonHack2025" target="_blank" rel="noopener noreferrer">
+        Visit our GitHub Repository!
+        <a/>
       </section>
 
       <footer>
