@@ -7,7 +7,7 @@ export default function Home() {
     <div>
       <header>
         <h1>Welcome to BlueHands</h1>
-        <p>Bluehands is uses a Machine Learning Model in order to detect hand gestures, in order to control PC functions such as your mouse or volume!,</p>
+        <p>Bluehands is uses a Machine Learning Model in order to detect hand gestures, in order to control PC functions such as your mouse or volume!</p>
       </header>
 
       <section>
@@ -21,7 +21,7 @@ export default function Home() {
       <section>
         <h2>Find Our Code</h2>
         <p>Check out our source code and contribute on GitHub:</p>
-        <Link href="https://github.com/[YourGitHubRepo]">
+        <Link href="https://github.com/NomadicCat/JakinCrimsonHack2025">
           <a target="_blank">Visit our GitHub Repository!</a>
         </Link>
       </section>
